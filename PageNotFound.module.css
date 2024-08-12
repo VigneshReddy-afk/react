@@ -1,0 +1,19 @@
+*{
+    margin: 0px;
+    box-sizing: border-box;
+    background-color: white;
+}
+
+.pagee{
+    height: 100vh;
+    width: 100vw;
+}
+
+.pagle{
+    position: relative;
+    left: 600px;
+ 
+    background-color: white;
+    color: red;
+}
+
